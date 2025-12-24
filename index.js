@@ -65,7 +65,7 @@ title.setAttribute('id', 'title');
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 
-  const searchItem = search.valuealue.trim();
+  const searchItem = search.value.trim();
 
   if (searchItem !== "") {
     main.innerHTML = "";
