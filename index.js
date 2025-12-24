@@ -1,4 +1,4 @@
-// const APILINK ='https://api.themovieb .org/3/discover/movie? sort_by=latest.desc&api_key=89ff79258c41311f4ec55400fa48eaf3&page=1';
+// const APILINK ='https://api.themovieb .org/3/discover/movie? sort_by=popularity.desc&api_key=89ff79258c41311f4ec55400fa48eaf3&page=1';
 const APILINK =
   "https://api.themoviedb.org/3/discover/movie?sort_by=latest.desc&api_key=89ff79258c41311f4ec55400fa48eaf3&page=1";
 
